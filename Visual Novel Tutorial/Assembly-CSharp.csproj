@@ -51,7 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\SceneSelect.cs" />
+     <Compile Include="Assets\Resources\Scripts\Character.cs" />
+     <Compile Include="Assets\Resources\Scripts\DialogueParser.cs" />
+     <Compile Include="Assets\Resources\Scripts\SceneButtons.cs" />
+     <Compile Include="Assets\Resources\Scripts\SceneSelect.cs" />
+     <None Include="Assets\Resources\Dialogue.txt" />
+     <None Include="Assets\Resources\Dialogue1.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
